@@ -10,7 +10,6 @@ bin/
 
 # Environment files (keep local!)
 .env
-.env.*
 *.local
 
 # Logs
